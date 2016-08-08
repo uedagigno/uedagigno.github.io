@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app_info>
     <ios>
-        <version>4.1.0</version>            <!--iOS バージョン名-->
-        <build>29</build>                   <!--iOS ビルド番号（整数）-->
+        <version>4.1.1</version>            <!--iOS バージョン名-->
+        <build>30</build>                   <!--iOS ビルド番号（整数）-->
         <forced_update>1</forced_update>    <!--強制アップデート 1(する) / 0(しない)-->
     </ios>
     <android>
