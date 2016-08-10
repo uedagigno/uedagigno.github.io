@@ -12,7 +12,7 @@
             <!--iOS ビルド番号（整数）--> 
             <ios_build>100</ios_build>
             <!--iOS 強制アップデート 1(する) / 0(しない)-->
-            <ios_forced_update>0</ios_forced_update>
+            <ios_forced_update>1</ios_forced_update>
             <!--iOS AppStore アプリURL--> 
             <ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
         </ios>
