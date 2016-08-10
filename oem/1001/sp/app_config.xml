@@ -40,16 +40,16 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--プラン変更-->
-		<plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
+        <plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
         <!--注意事項-->
-		<caution>http://xxxx</caution>
+        <caution>https://www.google.co.jp/?client=safari#q=注意事項&amp;gfe_rd=cr</caution>
         <!--利用規約-->
-		<terms>https://www.google.co.jp/?client=safari#q=利用規約&amp;gfe_rd=cr</terms>
+        <terms>https://www.google.co.jp/?client=safari#q=利用規約&amp;gfe_rd=cr</terms>
         <!--お知らせ-->
-		<notice>https://www.google.co.jp/?client=safari#q=お知らせ&amp;gfe_rd=cr</notice>
+        <notice>https://flets.com/s/azukeru/support.html</notice>
         <!--お問い合わせ-->
-		<contact>https://flets.com/s/azukeru/support.html</contact>
+        <contact>https://flets.com/s/azukeru/support.html</contact>
         <!--秘密のヒント登録-->
-		<secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
-	</external_url>
+        <secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
+    </external_url>
 </app_config>
