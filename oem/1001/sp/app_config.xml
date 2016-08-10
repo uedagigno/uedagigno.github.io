@@ -1,35 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--アプリ設定-->
 <app_config>
-	<oem_info>														<!--OEM情報-->
-		<oem_id>1001</oem_id>										<!--OEM_ID-->
-		<oem_official_name>XXXXXX</oem_official_name> 				<!--事業者正式名称-->
-		<oem_informal_name>XXXXXX</oem_informal_name>				<!--事業者略式名称-->
-		<oem_official_copyright>XXXXXX</oem_official_copyright>		<!--事業者正式コピーライト-->
-		<oem_informal_copyright>XXXXXX</oem_informal_copyright>		<!--事業者略式コピーライト-->
+    <!--OEM情報-->
+	<oem_info>
+        <!--OEM_ID-->
+		<id>1001</id>
+        <!--事業者正式名称-->
+		<business_name>OEMデモ1株式会社</business_name>
+        <!--コピーライト-->
+		<copyright>Copyright © 2016 OEMデモ1株式会社</copyright>
 	</oem_info>
-	<app_info>														  <!--アプリ情報-->
-		<app_official_name>A事業者 アプリ名称</app_official_name>	     <!--アプリ正式名称(FLET'S あずけ～る)-->
-		<app_informal_name>アプリ名</app_informal_name>				    <!--アプリ略式名称(あずけ～る)-->
-		<app_about_url>http://xxxxxxx</app_about_url>				   <!--アプリについて-->
+    <!--アプリ情報-->
+	<app_info>
+        <!--アプリ正式名称-->
+		<name>OEMデモ1</name>
+        <!--iOS--> 
 		<ios> 
-			<version>1.0.0</version>								   <!--iOS バージョン名--> 
-			<build>1</build>										   <!--iOS ビルド番号（整数）--> 
-			<forced_update>1</forced_update>						   <!--強制アップデート 1(する) / 0(しない)-->
-			<appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</appstore_url>				<!--AppStore アプリURL--> 
+            <!--iOS バージョン名--> 
+			<ios_version>1.0.0</ios_version>
+            <!--iOS ビルド番号（整数）--> 
+			<ios_build>1</ios_build>
+            <!--iOS 強制アップデート 1(する) / 0(しない)-->
+			<ios_forced_update>1</ios_forced_update>
+            <!--iOS AppStore アプリURL--> 
+			<ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
 		</ios>
+        <!--Android--> 
 		<android> 
-			<version_name>1.0.0</version_name>					      	<!--Android バージョン名-->
-			<version_code>1</version_code>							    <!--Android バージョンコード（整数）-->
-			<forced_update>0</forced_update>						   <!--強制アップデート 1(する) / 0(しない)-->
-			<googleplay_url>http://yyyyyy</googleplay_url>			    <!--GooglePlay アプリURL-->
+            <!--Android バージョン名-->
+			<android_version_name>1.0.0</android_version_name>
+            <!--Android バージョンコード（整数）-->
+			<android_version_code>1</android_version_code>
+            <!--Android 強制アップデート 1(する) / 0(しない)-->
+			<android_forced_update>0</android_forced_update>
+            <!--Android GooglePlay アプリURL-->
+			<android_googleplay_url>http://yyyyyy</android_googleplay_url>
 		</android>
 	</app_info>
-	<external_url>														<!--外部リンク情報-->
-		<plan_change>http://xxxx</plan_change>		          			<!--プラン変更リンク-->
-		<caution>http://xxxx</caution>			                     	<!--注意事項リンク-->
-		<terms>http://xxxx</terms>		                                <!--利用規約リンク-->
-		<notice>http://xxxx</notice>					                <!--お知らせリンク-->
-		<contact>http://xxxx</contact>					                <!--お問い合わせリンク-->
-		<secret_hint_regist>http://xxxxxxx</secret_hint_regist>         <!--秘密のヒントリンク-->
+    <!--外部リンクURL-->
+	<external_url>
+        <!--プラン変更-->
+		<plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
+        <!--注意事項-->
+		<caution>http://xxxx</caution>
+        <!--利用規約-->
+		<terms>https://www.google.co.jp/?client=safari#q=利用規約&amp;gfe_rd=cr</terms>
+        <!--お知らせ-->
+		<notice>https://www.google.co.jp/?client=safari#q=お知らせ&amp;gfe_rd=cr</notice>
+        <!--お問い合わせ-->
+		<contact>https://flets.com/s/azukeru/support.html</contact>
+        <!--秘密のヒント登録-->
+		<secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
 	</external_url>
 </app_config>
