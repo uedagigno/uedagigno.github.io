@@ -1,0 +1,37 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<app_config>
+	<oem_info>														<!--OEM情報-->
+		<oem_id>1001</oem_id>										<!--OEM_ID-->
+		<oem_official_name>XXXXXX</oem_official_name> 				<!--事業者正式名称-->
+		<oem_informal_name>XXXXXX</oem_informal_name>				<!--事業者略式名称-->
+		<oem_official_copyright>XXXXXX</oem_official_copyright>		<!--事業者正式コピーライト-->
+		<oem_informal_copyright>XXXXXX</oem_informal_copyright>		<!--事業者略式コピーライト-->
+	</oem_info>
+	<app_info>														  <!--アプリ情報-->
+		<app_official_name>A事業者 アプリ名称</app_official_name>	     <!--アプリ正式名称(FLET'S あずけ～る)-->
+		<app_informal_name>アプリ名</app_informal_name>				    <!--アプリ略式名称(あずけ～る)-->
+		<app_about_url>http://xxxxxxx</app_about_url>				   <!--アプリについて-->
+		<ios> 
+			<version>1.0.0</version>								   <!--iOS バージョン名--> 
+			<build>1</build>										   <!--iOS ビルド番号（整数）--> 
+			<forced_update>1</forced_update>						   <!--強制アップデート 1(する) / 0(しない)-->
+			<appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</appstore_url>				<!--AppStore アプリURL--> 
+		</ios>
+		<android> 
+			<version_name>1.0.0</version_name>					      	<!--Android バージョン名-->
+			<version_code>1</version_code>							    <!--Android バージョンコード（整数）-->
+			<forced_update>0</forced_update>						   <!--強制アップデート 1(する) / 0(しない)-->
+			<googleplay_url>http://yyyyyy</googleplay_url>			    <!--GooglePlay アプリURL-->
+		</android>
+	</app_info>
+	<external_url>														<!--外部リンク情報-->
+		<plan_change>http://xxxx</plan_change>		          			<!--プラン変更リンク-->
+		<caution>http://xxxx</caution>			                     	<!--注意事項リンク-->
+		<terms>http://xxxx</terms>		                                <!--利用規約リンク-->
+		<notice>http://xxxx</notice>					                <!--お知らせリンク-->
+		<contact>http://xxxx</contact>					                <!--お問い合わせリンク-->
+		<secret_hint_regist>http://xxxxxxx</secret_hint_regist>         <!--秘密のヒントリンク-->
+	</external_url>
+</app_config>
