@@ -4,11 +4,11 @@
     <!--OEM情報-->
 	<oem_info>
         <!--OEM_ID-->
-		<id>1100</id>
+		<id>0002</id>
         <!--事業者正式名称-->
-		<business_name>OEM事業者（１）</business_name>
+		<business_name>OEM事業者（２）</business_name>
         <!--コピーライト-->
-		<copyright>Copyright © 2016 OEM事業者（１）</copyright>
+		<copyright>Copyright © 2016 OEM事業者（２）</copyright>
 	</oem_info>
     <!--アプリ情報-->
 	<app_info>
@@ -42,9 +42,9 @@
         <!--プラン変更-->
         <plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
         <!--注意事項-->
-        <caution>https://uedagigno.github.io/oem/1100/sp/caution.html</caution>
+        <caution>https://uedagigno.github.io/oem/0002/sp/caution.html</caution>
         <!--利用規約-->
-        <terms>https://uedagigno.github.io/oem/1100/sp/terms.html</terms>
+        <terms>https://uedagigno.github.io/oem/0002/sp/terms.html</terms>
         <!--お知らせ-->
         <notice>https://flets.com/s/azukeru/support.html</notice>
         <!--お問い合わせ-->
