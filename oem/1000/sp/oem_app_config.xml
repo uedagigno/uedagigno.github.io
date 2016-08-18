@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--アプリ設定-->
+<app_config>
+    <!--OEM情報-->
+	<oem_info>
+        <!--OEM_ID-->
+		<id>1000</id>
+        <!--事業者正式名称-->
+		<business_name>OEM事業者（２）</business_name>
+        <!--コピーライト-->
+		<copyright>Copyright © 2016 OEM事業者（２）</copyright>
+	</oem_info>
+    <!--アプリ情報-->
+	<app_info>
+        <!--アプリ正式名称-->
+		<name>OEMデモ1</name>
+        <!--iOS--> 
+		<ios> 
+            <!--iOS バージョン名--> 
+			<ios_version>1.0.0</ios_version>
+            <!--iOS ビルド番号（整数）--> 
+			<ios_build>1</ios_build>
+            <!--iOS 強制アップデート 1(する) / 0(しない)-->
+			<ios_forced_update>0</ios_forced_update>
+            <!--iOS AppStore アプリURL--> 
+			<ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
+		</ios>
+        <!--Android--> 
+		<android> 
+            <!--Android バージョン名-->
+			<android_version_name>1.0.0</android_version_name>
+            <!--Android バージョンコード（整数）-->
+			<android_version_code>1</android_version_code>
+            <!--Android 強制アップデート 1(する) / 0(しない)-->
+			<android_forced_update>0</android_forced_update>
+            <!--Android GooglePlay アプリURL-->
+			<android_googleplay_url>http://yyyyyy</android_googleplay_url>
+		</android>
+	</app_info>
+    <!--外部リンクURL-->
+	<external_url>
+        <!--プラン変更-->
+        <plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
+        <!--注意事項-->
+        <caution>https://uedagigno.github.io/oem/1000/sp/caution.html</caution>
+        <!--利用規約-->
+        <terms>https://uedagigno.github.io/oem/1000/sp/terms.html</terms>
+        <!--お知らせ-->
+        <notice>https://flets.com/s/azukeru/support.html</notice>
+        <!--お問い合わせ-->
+        <contact>https://flets.com/s/azukeru/support.html</contact>
+        <!--秘密のヒント登録-->
+        <secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
+    </external_url>
+</app_config>
