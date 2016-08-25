@@ -3,29 +3,25 @@
 <app_config>
     <!--アプリ情報-->
     <app_info>
-        <!--アプリ正式名称-->
+        <!--アプリ正式名称（任意：クライアント側では必要としません）-->
         <name>フレッツ・あずけ〜る</name>
         <!--iOS--> 
         <ios> 
-            <!--iOS バージョン名--> 
-            <ios_version>4.1.1</ios_version>
-            <!--iOS ビルド番号（整数）--> 
-            <ios_build>100</ios_build>
-            <!--iOS 強制アップデート 1(する) / 0(しない)-->
+            <!--iOS バージョン名（必須）--> 
+            <ios_version>1.0.0</ios_version>
+            <!--iOS ビルド番号（必須：整数）--> 
+            <ios_build>1</ios_build>
+            <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
             <ios_forced_update>0</ios_forced_update>
-            <!--iOS AppStore アプリURL--> 
-            <ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
         </ios>
         <!--Android--> 
         <android> 
-            <!--Android バージョン名-->
-            <android_version_name>4.1.1</android_version_name>
-            <!--Android バージョンコード（整数）-->
-            <android_version_code>100</android_version_code>
-            <!--Android 強制アップデート 1(する) / 0(しない)-->
+            <!--Android バージョン名（必須）-->
+            <android_version_name>1.0.0</android_version_name>
+            <!--Android バージョンコード（必須：整数）-->
+            <android_version_code>1</android_version_code>
+            <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
             <android_forced_update>0</android_forced_update>
-            <!--Android GooglePlay アプリURL-->
-            <android_googleplay_url>https://play.google.com/store/apps/details?id=com.flets.azukeru&amp;hl=ja</android_googleplay_url>
         </android>
     </app_info>
 </app_config>
