@@ -38,7 +38,7 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://uedagigno.github.io/oem/0001/sp/terms.html</terms>
+
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://uedagigno.github.io/oem/0001/sp/caution.html</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
