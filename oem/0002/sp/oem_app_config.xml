@@ -4,14 +4,14 @@
     <!--OEM情報-->
     <oem_info>
         <!--OEM_ID（必須：クライアント側で妥当性チェックに使用します）-->
-        <id>0002</id>
+        <oem_id>0002</oem_id>
         <!--事業者正式名称（任意：クライアント側では必要としません）-->
-        <business_name>OEM事業者（２）</business_name>
+        <storage_sp_name>OEM事業者（２）</storage_sp_name>
     </oem_info>
     <!--アプリ情報-->
     <app_info>
         <!--アプリ正式名称（任意：クライアント側では必要としません）-->
-        <name>OEMデモ2</name>
+        <app_name>OEMデモ2</app_name>
         <!--iOS--> 
         <ios> 
             <!--iOS バージョン名（必須）--> 
