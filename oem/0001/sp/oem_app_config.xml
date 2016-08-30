@@ -4,7 +4,7 @@
     <!--OEM情報-->
 	<oem_info>
         <!--OEM_ID（必須：クライアント側で妥当性チェックに使用します）-->
-		<oem_id>0001</oem_id>
+		<oem_id>0001*</oem_id>
         <!--事業者正式名称（任意：クライアント側では必要としません）-->
 		<storage_sp_name>OEM事業者（１）</storage_sp_name>
 	</oem_info>
