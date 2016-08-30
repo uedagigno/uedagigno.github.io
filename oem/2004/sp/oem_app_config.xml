@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--アプリ設定-->
+<app_config>
+    <!--OEM情報-->
+    <oem_info>
+        <!--OEM_ID（必須：クライアント側で妥当性チェックに使用します）-->
+        <oem_id>2004</oem_id>
+        <!--事業者正式名称（任意：クライアント側では必要としません）-->
+        <storage_sp_name>OEM事業者（2004）</storage_sp_name>
+    </oem_info>
+    <!--アプリ情報-->
+    <app_info>
+        <!--アプリ正式名称（任意：クライアント側では必要としません）-->
+        <app_name>OEMデモ2004</app_name>
+        <!--iOS--> 
+        <ios> 
+            <!--iOS バージョン名（必須）--> 
+            <ios_version>1.0.0</ios_version>
+            <!--iOS ビルド番号（必須：整数）--> 
+            <ios_build>1</ios_build>
+            <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
+            <ios_forced_update>0</ios_forced_update>
+            <!--iOS AppStore アプリURL（必須：必ず存在するページのアドレスを入力してください）--> 
+            <ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
+        </ios>
+        <!--Android--> 
+        <android> 
+            <!--Android バージョン名（必須）-->
+            <android_version_name>1.0.0</android_version_name>
+            <!--Android バージョンコード（必須：整数）-->
+            <android_version_code>1</android_version_code>
+            <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
+            <android_forced_update>0</android_forced_update>
+            <!--Android GooglePlay アプリURL（必須：必ず存在するページのアドレスを入力してください）-->
+            <android_googleplay_url>https://play.google.com/store/apps/details?id=com.flets.azukeru&amp;hl=ja</android_googleplay_url>
+        </android>
+    </app_info>
+    <!--外部リンクURL-->
+    <external_url>
+        <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
+        <terms>https://uedagigno.github.io/oem/2004/sp/terms.html</terms>
+        <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
+        <caution>https://uedagigno.github.io/oem/2004/sp/caution.html</caution>
+        <!--プラン変更（任意：必要ない場合は空）-->
+        <plan_change>https://flets.com/azukeru/pro/flow.html</plan_change>
+        <!--お知らせ（任意：必要ない場合は空）-->
+        <notice>https://flets.com/s/azukeru/support.html</notice>
+        <!--お問い合わせ（任意：必要ない場合は空）-->
+        <contact>https://flets.com/s/azukeru/support.html</contact>
+        <!--秘密のヒント登録（任意：必要ない場合は空）-->
+        <secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
+        <!--本登録の案内URL（任意：必要ない場合は空）-->
+        <formal_registration>https://flets.com/azukeru/pro/settei.html</formal_registration>
+    </external_url>
+</app_config>
