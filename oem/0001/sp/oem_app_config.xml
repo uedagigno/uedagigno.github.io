@@ -50,6 +50,6 @@
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://flets.com/azukeru/login/support.html</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
-        <formal_registration>https://flets.com/azukeru/pro/settei.html</formal_registration>
+        <formal_registration>https%3a%2f%2fwww%2egoogle%2eco%2ejp%2f%23q%3d%e6%9c%ac%e7%99%bb%e9%8c%b2</formal_registration>
     </external_url>
 </app_config>
