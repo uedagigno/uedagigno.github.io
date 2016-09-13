@@ -50,6 +50,5 @@
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://www.google.co.jp/#q=%E7%A7%98%E5%AF%86%E3%81%AE%E3%83%92%E3%83%B3%E3%83%880002</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
-        <formal_registration></formal_registration>
     </external_url>
 </app_config>
