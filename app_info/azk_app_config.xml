@@ -19,7 +19,7 @@
             <!--Android バージョン名（必須）-->
             <android_version_name>4.1.1</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
-            <android_version_code>100</android_version_code>
+            <android_version_code>0</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
             <android_forced_update>0</android_forced_update>
         </android>
