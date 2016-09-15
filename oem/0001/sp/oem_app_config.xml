@@ -46,7 +46,7 @@
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://www.google.co.jp/#q=%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B0001</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact></contact>
+        <contact>https://www.google.co.jp/#q=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B0002</contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://www.google.co.jp/#q=%E7%A7%98%E5%AF%86%E3%81%AE%E3%83%92%E3%83%B3%E3%83%880001</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
