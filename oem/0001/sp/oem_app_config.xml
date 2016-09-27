@@ -38,7 +38,7 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>http%3a%2f%2fwww%2ekinet%2eor%2ejp%2fhiromin%2fcgi_introduction%2fappendix%2furl_encode%2ehtml</terms>
+        <terms>https://www.google.co.jp/#q=%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%840001</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://www.google.co.jp/#q=%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%850001</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
