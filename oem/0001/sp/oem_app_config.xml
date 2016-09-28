@@ -28,7 +28,7 @@
             <!--Android バージョン名（必須）-->
 			<android_version_name>1.0.0</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
-			<android_version_code>1</android_version_code>
+			<android_version_code>100</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
 			<android_forced_update>0</android_forced_update>
             <!--Android GooglePlay アプリURL（必須：必ず存在するページのアドレスを入力してください）-->
@@ -50,5 +50,6 @@
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://www.google.co.jp/#q=%E7%A7%98%E5%AF%86%E3%81%AE%E3%83%92%E3%83%B3%E3%83%880001</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
+        <formal_registration>https://www.google.co.jp/#q=%E6%9C%AC%E7%99%BB%E9%8C%B2%E3%81%AE%E6%A1%88%E5%86%850002</formal_registration>
     </external_url>
 </app_config>
