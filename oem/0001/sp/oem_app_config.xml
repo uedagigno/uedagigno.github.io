@@ -40,12 +40,13 @@
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
         <terms>https://www.google.co.jp/#q=%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%840001</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
+        <caution>https://www.google.co.jp/#q=%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%850001</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
         <plan_change>https://www.google.co.jp/#q=%E3%83%97%E3%83%A9%E3%83%B3%E5%A4%89%E6%9B%B40001</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://www.google.co.jp/#q=%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B0001</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://www.google.co.jp/#q=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B0002</contact>
+        <contact></contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://www.google.co.jp/#q=%E7%A7%98%E5%AF%86%E3%81%AE%E3%83%92%E3%83%B3%E3%83%880001</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
