@@ -21,18 +21,18 @@
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
 			<ios_forced_update>0</ios_forced_update>
             <!--iOS AppStore アプリURL（必須：必ず存在するページのアドレスを入力してください）--> 
-			<ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
+			<ios_appstore_url>https://www.google.co.jp/#q=iTunes</ios_appstore_url>
 		</ios>
         <!--Android--> 
 		<android> 
             <!--Android バージョン名（必須）-->
 			<android_version_name>1.0.0</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
-			<android_version_code>1</android_version_code>
+			<android_version_code>100</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
 			<android_forced_update>0</android_forced_update>
             <!--Android GooglePlay アプリURL（必須：必ず存在するページのアドレスを入力してください）-->
-			<android_googleplay_url>https://play.google.com/store/apps/details?id=com.flets.azukeru&amp;hl=ja</android_googleplay_url>
+			<android_googleplay_url>https://www.google.co.jp/#q=Android</android_googleplay_url>
 		</android>
 	</app_info>
     <!--外部リンクURL-->
