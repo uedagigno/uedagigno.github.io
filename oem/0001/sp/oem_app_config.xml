@@ -17,9 +17,9 @@
             <!--iOS バージョン名（必須）--> 
 			<ios_version>1.0.0</ios_version>
             <!--iOS ビルド番号（必須：整数）--> 
-			<ios_build>0</ios_build>
+			<ios_build>1</ios_build>
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
-			<ios_forced_update>0</ios_forced_update>
+			<ios_forced_update>1</ios_forced_update>
             <!--iOS AppStore アプリURL（必須：必ず存在するページのアドレスを入力してください）--> 
 			<ios_appstore_url>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=680432407&amp;mt=8</ios_appstore_url>
 		</ios>
