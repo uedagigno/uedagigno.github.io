@@ -38,18 +38,18 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://www.google.co.jp/#q=rule_1700</terms>
+        <terms>https://goo.gl/GEzHVG</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution>https://www.google.co.jp/#q=caution_1700</caution>
+        <caution>https://goo.gl/fGQdBU</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
-        <plan_change>https://www.google.co.jp/#q=plan_1700</plan_change>
+        <plan_change>https://goo.gl/Ji2ViC</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
-        <notice>https://www.google.co.jp/#q=notice_1700</notice>
+        <notice>https://goo.gl/v3J4VV</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://www.google.co.jp/#q=support_1700</contact>
+        <contact>https://goo.gl/5nVOIi</contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
-        <secret_hint_regist>https://www.google.co.jp/#q=hint_1700</secret_hint_regist>
+        <secret_hint_regist>https://goo.gl/uAH6Mf</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
-        <formal_registration>https://www.google.co.jp/#q=regist_1700</formal_registration>
+        <formal_registration>https://goo.gl/Tc3z6A</formal_registration>
     </external_url>
 </app_config>
