@@ -38,18 +38,18 @@
     <!--外部リンクURL-->
     <external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://www.google.co.jp/#q=rule_1707</terms>
+        <terms>https://ja.wikipedia.org/wiki/17070</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution>https://www.google.co.jp/#q=caution_1707</caution>
+        <caution>https://ja.wikipedia.org/wiki/17071</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
-        <plan_change>https://www.google.co.jp/#q=plan_1707</plan_change>
+        <plan_change>https://ja.wikipedia.org/wiki/17072</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
-        <notice>https://www.google.co.jp/#q=notice_1707</notice>
+        <notice>https://ja.wikipedia.org/wiki/17073</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://www.google.co.jp/#q=support_1707</contact>
+        <contact>https://ja.wikipedia.org/wiki/17074</contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
-        <secret_hint_regist>https://www.google.co.jp/#q=hint_1707</secret_hint_regist>
+        <secret_hint_regist>https://ja.wikipedia.org/wiki/17075</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
-        <formal_registration>https://www.google.co.jp/#q=regist_1707</formal_registration>
+        <formal_registration>https://ja.wikipedia.org/wiki/17076</formal_registration>
     </external_url>
 </app_config>
