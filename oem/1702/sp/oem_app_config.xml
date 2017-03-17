@@ -51,5 +51,7 @@
         <secret_hint_regist>https://ja.wikipedia.org/wiki/17025</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
         <formal_registration>https://ja.wikipedia.org/wiki/17026</formal_registration>
+        <!--プライバシーポリシー（任意：必要ない場合は空）-->
+        <privacy_policy>https://ja.wikipedia.org/wiki/17027</privacy_policy>
     </external_url>
 </app_config>
