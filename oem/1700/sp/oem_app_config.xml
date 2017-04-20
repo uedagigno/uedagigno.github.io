@@ -51,7 +51,5 @@
         <secret_hint_regist/>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
         <formal_registration/>
-        <!--プライバシーポリシー（任意：必要ない場合は空）-->
-        <privacy_policy/>
     </external_url>
 </app_config>
