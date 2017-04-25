@@ -38,7 +38,7 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://ja.wikipedia.org/wiki/17000</terms>
+        <terms>https://www.storage-online.net/etc/oem/0012/sp/usage/index.html</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://ja.wikipedia.org/wiki/17001</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
