@@ -28,9 +28,9 @@
             <!--Android バージョン名（必須）-->
 			<android_version_name>1.0.0</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
-			<android_version_code>0</android_version_code>
+			<android_version_code>2</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
-			<android_forced_update>2</android_forced_update>
+			<android_forced_update>0</android_forced_update>
             <!--Android GooglePlay アプリURL（必須：必ず存在するページのアドレスを入力してください）-->
 			<android_googleplay_url>https://play.google.com/store/apps/details?id=com.flets.azukeru&amp;hl=ja</android_googleplay_url>
 		</android>
