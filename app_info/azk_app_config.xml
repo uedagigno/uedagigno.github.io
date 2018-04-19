@@ -27,6 +27,6 @@
     <!--外部リンクURL-->
     <external_url>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution></caution>
+        
     </external_url>
 </app_config>
