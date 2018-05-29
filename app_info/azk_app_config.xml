@@ -27,7 +27,7 @@
     <!--外部リンクURL-->
     <external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms></terms>
+        <terms>https://uedagigno.github.io/app_info/terms.html</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://uedagigno.github.io/app_info/caution.html</caution>
         <!--無料プラン_プラン変更（任意：必要ない場合は空）-->
