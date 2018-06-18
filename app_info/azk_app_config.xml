@@ -17,7 +17,7 @@
         <!--Android-->
         <android>
             <!--Android バージョン名（必須）-->
-            <android_version_name>7.1.0</android_version_name>
+            <android_version_name>5.0.0</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
             <android_version_code>0</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
@@ -37,7 +37,7 @@
         <!--PROプラン_プラン変更（任意：必要ない場合は空）-->
         <plan_change_pro>https://ja.wikipedia.org/wiki/17004</plan_change_pro>
         <!--Aioプラン_プラン変更（任意：必要ない場合は空）-->
-        <plan_change_aio/>
+        <plan_change_aio></plan_change_aio>
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/17005</notice>
         <!--無料プラン_お問い合わせ（任意：必要ない場合は空）-->
