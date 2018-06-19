@@ -41,7 +41,7 @@
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/17005</notice>
         <!--無料プラン_お問い合わせ（任意：必要ない場合は空）-->
-        <contact></contact>
+
         <!--有料プラン_お問い合わせ（任意：必要ない場合は空）-->
         <contact_pay>https://ja.wikipedia.org/wiki/17007</contact_pay>
         <!--PROプラン_お問い合わせ（任意：必要ない場合は空）-->
