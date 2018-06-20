@@ -40,7 +40,7 @@
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
         <terms>https://ja.wikipedia.org/wiki/17000</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution>https://ja.wikipedia.org/wiki/17001111111111111111111111111111</caution>
+        <caution>https://ja.wikipedia.org/wiki/17001</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
         <plan_change>https://ja.wikipedia.org/wiki/17002</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
