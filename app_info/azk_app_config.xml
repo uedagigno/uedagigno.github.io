@@ -10,7 +10,7 @@
             <!--iOS バージョン名（必須）-->
             <ios_version>7.0.0</ios_version>
             <!--iOS ビルド番号（必須：整数）-->
-            <ios_build>0</ios_build>
+            <ios_build>2000</ios_build>
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
             <ios_forced_update>0</ios_forced_update>
         </ios>
