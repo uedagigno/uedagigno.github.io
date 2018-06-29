@@ -10,7 +10,7 @@
             <!--iOS バージョン名（必須）-->
             <ios_version>7.0.0</ios_version>
             <!--iOS ビルド番号（必須：整数）-->
-            <ios_build>2000</ios_build>
+            <ios_build>4000</ios_build>
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
             <ios_forced_update>0</ios_forced_update>
         </ios>
@@ -48,8 +48,7 @@
         <contact_pro>https://ja.wikipedia.org/wiki/17008</contact_pro>
         <!--Aioプラン_お問い合わせ（任意：必要ない場合は空）-->
         <contact_aio>https://ja.wikipedia.org/wiki/17009</contact_aio>
-        <!--秘密のヒント登録（任意：必要ない場合は空）-->
-        <secret_hint_regist>https://ja.wikipedia.org/wiki/17010</secret_hint_regist>
+
         <!--プライバシーポリシー（任意：必要ない場合は空）-->
         <privacy_policy>https://ja.wikipedia.org/wiki/17011</privacy_policy>
     </external_url>
