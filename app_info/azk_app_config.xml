@@ -51,6 +51,6 @@
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://ja.wikipedia.org/wiki/17010</secret_hint_regist>
         <!--プライバシーポリシー（任意：必要ない場合は空）-->
-        <privacy_policy>https://ja.wikipedia.org/wiki/1701111111111</privacy_policy>
+        <privacy_policy>https://ja.wikipedia.org/wiki/17011</privacy_policy>
     </external_url>
 </app_config>
