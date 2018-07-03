@@ -10,7 +10,7 @@
             <!--iOS バージョン名（必須）-->
             <ios_version>7.1.0</ios_version>
             <!--iOS ビルド番号（必須：整数）-->
-            <ios_build>50</ios_build>
+            <ios_build>45</ios_build>
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
             <ios_forced_update>0</ios_forced_update>
         </ios>
@@ -35,7 +35,7 @@
         <!--有料プラン_プラン変更（任意：必要ない場合は空）-->
         <plan_change_pay>https://ja.wikipedia.org/wiki/17003</plan_change_pay>
         <!--PROプラン_プラン変更（任意：必要ない場合は空）-->
-        <plan_change_pro>https://ja.wikipedia.org/wiki/17004</plan_change_pro>
+        <plan_change_pro></plan_change_pro>
         <!--Aioプラン_プラン変更（任意：必要ない場合は空）-->
         <plan_change_aio>https://ja.wikipedia.org/wiki/170078787878787878787</plan_change_aio>
         <!--お知らせ（任意：必要ない場合は空）-->
