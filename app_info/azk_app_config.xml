@@ -30,9 +30,9 @@
         <terms>https://uedagigno.github.io/app_info/terms.html</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://uedagigno.github.io/app_info/caution.html</caution>
-        <!--無料プラン_プラン変更（任意：必要ない場合は空）-->
-        <plan_change>https://ja.wikipedia.org/wiki/17002</plan_change>
 
+        <!--PROプラン_プラン変更（任意：必要ない場合は空）-->
+        <plan_change_pro>https://ja.wikipedia.org/wiki/17004</plan_change_pro>
         <!--PROプラン_プラン変更（任意：必要ない場合は空）-->
         <plan_change_pro>https://ja.wikipedia.org/wiki/17004</plan_change_pro>
         <!--Aioプラン_プラン変更（任意：必要ない場合は空）-->
