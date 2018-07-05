@@ -37,21 +37,16 @@
 	</app_info>
     <!--外部リンクURL-->
 	<external_url>
-        <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://ja.wikipedia.org/wiki/17000</terms>
-        <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution>https://ja.wikipedia.org/wiki/17001</caution>
+
         <!--プラン変更（任意：必要ない場合は空）-->
         <plan_change>https://ja.wikipedia.org/wiki/170022222222222222222222222</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/1700333333333333333333333333333333</notice>
-        <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://ja.wikipedia.org/wiki/17004</contact>
+
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://ja.wikipedia.org/wiki/17005</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
         <formal_registration>https://ja.wikipedia.org/wiki/17006</formal_registration>
-        <!--プライバシーポリシー（任意：必要ない場合は空）-->
-        <privacy_policy>https://ja.wikipedia.org/wiki/17007</privacy_policy>
+
     </external_url>
 </app_config>
