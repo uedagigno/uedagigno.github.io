@@ -42,7 +42,7 @@
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
         <caution>https://ja.wikipedia.org/wiki/17001</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
-        <plan_change>https://ja.wikipedia.org/wiki/1700222222222222222</plan_change>
+        <plan_change>https://ja.wikipedia.org/wiki/17002</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/17003333333333</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
