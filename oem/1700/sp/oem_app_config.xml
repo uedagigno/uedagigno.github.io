@@ -46,7 +46,7 @@
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/17003333333333</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://ja.wikipedia.org/wiki/17004444444444</contact>
+        <contact>https://ja.wikipedia.org/wiki/17004</contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
         <secret_hint_regist>https://ja.wikipedia.org/wiki/17005</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
