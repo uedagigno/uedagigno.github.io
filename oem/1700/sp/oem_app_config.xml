@@ -52,6 +52,6 @@
         <!--本登録の案内URL（任意：必要ない場合は空）-->
         <formal_registration>https://ja.wikipedia.org/wiki/17006</formal_registration>
         <!--プライバシーポリシー（任意：必要ない場合は空）-->
-        <privacy_policy>https://ja.wikipedia.org/wiki/1700777777777</privacy_policy>
+        <privacy_policy>https://ja.wikipedia.org/wiki/17007</privacy_policy>
     </external_url>
 </app_config>
