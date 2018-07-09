@@ -27,9 +27,9 @@
     <!--外部リンクURL-->
     <external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms></terms>
+        <terms>https://uedagigno.github.io/app_info/terms.html</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution></caution>
+        <caution>https://uedagigno.github.io/app_info/caution.html</caution>
         <!--無料プラン_プラン変更（任意：必要ない場合は空）-->
         <plan_change>https://ja.wikipedia.org/wiki/17002</plan_change>
         <!--有料プラン_プラン変更（任意：必要ない場合は空）-->
@@ -41,7 +41,7 @@
         <!--お知らせ（任意：必要ない場合は空）-->
         <notice>https://ja.wikipedia.org/wiki/17005</notice>
         <!--無料プラン_お問い合わせ（任意：必要ない場合は空）-->
-        <contact></contact>
+        <contact>https://ja.wikipedia.org/wiki/17006</contact>
         <!--有料プラン_お問い合わせ（任意：必要ない場合は空）-->
         <contact_pay>https://ja.wikipedia.org/wiki/17007</contact_pay>
         <!--PROプラン_お問い合わせ（任意：必要ない場合は空）-->
