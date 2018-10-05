@@ -15,9 +15,9 @@
         <!--iOS--> 
 		<ios> 
             <!--iOS バージョン名（必須）--> 
-			<ios_version>1.0.0</ios_version>
+			<ios_version>7.0.0</ios_version>
             <!--iOS ビルド番号（必須：整数）--> 
-			<ios_build>2</ios_build>
+			<ios_build>46</ios_build>
             <!--iOS 強制アップデート（必須： 1(する) / 0(しない)）-->
 			<ios_forced_update>0</ios_forced_update>
             <!--iOS AppStore アプリURL（必須：必ず存在するページのアドレスを入力してください）--> 
@@ -26,9 +26,9 @@
         <!--Android--> 
 		<android> 
             <!--Android バージョン名（必須）-->
-			<android_version_name>1.0.0</android_version_name>
+			<android_version_name>7.0.0</android_version_name>
             <!--Android バージョンコード（必須：整数）-->
-			<android_version_code>1</android_version_code>
+			<android_version_code>32</android_version_code>
             <!--Android 強制アップデート（必須： 1(する) / 0(しない)）-->
 			<android_forced_update>0</android_forced_update>
             <!--Android GooglePlay アプリURL（必須：必ず存在するページのアドレスを入力してください）-->
@@ -38,18 +38,20 @@
     <!--外部リンクURL-->
 	<external_url>
         <!--利用規約（必須：必ず存在するページのアドレスを入力してください）-->
-        <terms>https://www.google.co.jp/#q=%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%840001</terms>
+        <terms>https://ja.wikipedia.org/wiki/00010</terms>
         <!--注意事項（必須：必ず存在するページのアドレスを入力してください）-->
-        <caution>https://www.google.co.jp/#q=%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%850001-1</caution>
+        <caution>https://ja.wikipedia.org/wiki/00011</caution>
         <!--プラン変更（任意：必要ない場合は空）-->
-        <plan_change>https://www.google.co.jp/#q=%E3%83%97%E3%83%A9%E3%83%B3%E5%A4%89%E6%9B%B40001-1</plan_change>
+        <plan_change>https://ja.wikipedia.org/wiki/00012</plan_change>
         <!--お知らせ（任意：必要ない場合は空）-->
-        <notice>https://www.google.co.jp/#q=%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B0001</notice>
+        <notice>https://ja.wikipedia.org/wiki/00013</notice>
         <!--お問い合わせ（任意：必要ない場合は空）-->
-        <contact>https://www.google.co.jp/#q=%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B0002</contact>
+        <contact>https://ja.wikipedia.org/wiki/00014</contact>
         <!--秘密のヒント登録（任意：必要ない場合は空）-->
-        <secret_hint_regist>https://www.google.co.jp/#q=%E7%A7%98%E5%AF%86%E3%81%AE%E3%83%92%E3%83%B3%E3%83%880001</secret_hint_regist>
+        <secret_hint_regist>https://ja.wikipedia.org/wiki/00015</secret_hint_regist>
         <!--本登録の案内URL（任意：必要ない場合は空）-->
-        <formal_registration>https://www.google.co.jp/#q=%E6%9C%AC%E7%99%BB%E9%8C%B2%E3%81%AE%E6%A1%88%E5%86%850002</formal_registration>
+        <formal_registration>https://ja.wikipedia.org/wiki/00016</formal_registration>
+        <!--プライバシーポリシー（任意：必要ない場合は空）-->
+        <privacy_policy>https://ja.wikipedia.org/wiki/00017</privacy_policy>
     </external_url>
 </app_config>
